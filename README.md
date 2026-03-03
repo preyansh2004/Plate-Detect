@@ -33,5 +33,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-📄 License
+## 📄 License
 This project is open-source and available for educational purposes.
