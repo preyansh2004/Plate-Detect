@@ -20,15 +20,18 @@ An AI-powered Automatic Number Plate Recognition (ANPR) system built using Pytho
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Automatic-Plate-Detection.git```
+git clone https://github.com/yourusername/Automatic-Plate-Detection.git
+```
 
 2. Install the required dependencies:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 3. Run the Streamlit application:
 ```bash
-streamlit run app.py```
+streamlit run app.py
+```
 
 📄 License
 This project is open-source and available for educational purposes.
